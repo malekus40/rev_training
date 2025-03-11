@@ -1,0 +1,109 @@
+2025-03-07T16:31:19.456Z [info]: Server is listening on http://localhost:3000
+2025-03-07T16:32:22.955Z [info]: Fetched data from grocery list
+2025-03-07T16:32:22.955Z [error]: ENOENT: no such file or directory, open 'data.json'
+2025-03-07T16:33:34.394Z [info]: Server is listening on http://localhost:3000
+2025-03-07T16:33:38.998Z [info]: Fetched data from grocery list
+2025-03-07T16:33:39.000Z [error]: Error parsing JSON 
+2025-03-07T16:44:09.191Z [info]: Server is listening on http://localhost:3000
+2025-03-07T16:48:51.825Z [info]: Server is listening on http://localhost:3000
+2025-03-07T16:50:25.840Z [info]: Server is listening on http://localhost:3000
+2025-03-07T16:51:42.573Z [info]: Server is listening on http://localhost:3000
+2025-03-07T16:52:15.014Z [info]: Server is listening on http://localhost:3001
+2025-03-07T16:59:08.296Z [info]: Server is listening on http://localhost:3000
+2025-03-07T16:59:20.622Z [info]: Fetched data from grocery list
+2025-03-07T19:49:41.344Z [info]: Server is listening on http://localhost:3000
+2025-03-07T19:49:52.063Z [info]: Fetched data from grocery list
+2025-03-07T19:54:06.970Z [info]: Fetched data from grocery list
+2025-03-07T19:59:13.711Z [info]: Server is listening on http://localhost:3000
+2025-03-07T19:59:22.366Z [info]: Fetched data from grocery list
+2025-03-07T20:05:48.080Z [info]: Server is listening on http://localhost:3000
+2025-03-07T20:05:53.473Z [info]: Fetched data from grocery list
+2025-03-07T20:06:54.168Z [info]: Server is listening on http://localhost:3000
+2025-03-07T20:06:58.795Z [info]: Fetched data from grocery list
+2025-03-07T20:07:01.944Z [error]: Invalid JSON in request: Unexpected token o in JSON at position 1
+2025-03-07T20:08:13.186Z [info]: Server is listening on http://localhost:3000
+2025-03-07T20:08:17.858Z [error]: Invalid JSON in request: Unexpected token o in JSON at position 1
+2025-03-07T20:10:51.458Z [error]: Invalid JSON in request: Unexpected token o in JSON at position 1
+2025-03-07T20:11:14.809Z [error]: Invalid JSON in request: Unexpected token o in JSON at position 1
+2025-03-07T20:11:35.961Z [error]: Invalid JSON in request: Unexpected token o in JSON at position 1
+2025-03-07T20:12:02.820Z [error]: Invalid JSON in request: Unexpected token o in JSON at position 1
+2025-03-07T21:38:20.080Z [info]: Server is listening on http://localhost:3000
+2025-03-07T21:38:41.605Z [info]: Fetched data from grocery list
+2025-03-07T21:38:47.369Z [info]: Fetched data from grocery list
+2025-03-07T21:39:21.798Z [info]: Fetched data from grocery list
+2025-03-07T21:39:35.131Z [error]: Invalid JSON in request: Unexpected token o in JSON at position 1
+2025-03-07T21:46:37.844Z [info]: Server is listening on http://localhost:3000
+2025-03-07T21:46:46.403Z [info]: Fetched data from grocery list
+2025-03-07T21:46:50.568Z [error]: Invalid JSON in request: Unexpected token o in JSON at position 1
+2025-03-07T21:56:17.535Z [info]: Server is listening on http://localhost:3000
+2025-03-07T21:56:23.721Z [info]: Fetched data from grocery list
+2025-03-07T21:56:28.846Z [error]: Error parsing JSON file: Unexpected end of JSON input
+2025-03-07T21:58:58.152Z [error]: Error parsing JSON file: Unexpected end of JSON input
+2025-03-07T22:00:12.209Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:02:05.459Z [info]: Fetched data from grocery list
+2025-03-07T22:18:40.633Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:18:55.650Z [info]: Fetched data from grocery list
+2025-03-07T22:19:09.642Z [info]: Fetched data from grocery list
+2025-03-07T22:19:27.030Z [info]: Fetched data from grocery list
+2025-03-07T22:19:54.517Z [info]: Fetched data from grocery list
+2025-03-07T22:20:12.885Z [info]: Fetched data from grocery list
+2025-03-07T22:23:05.516Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:23:10.747Z [info]: Fetched data from grocery list
+2025-03-07T22:23:23.642Z [info]: Fetched data from grocery list
+2025-03-07T22:37:48.215Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:37:53.366Z [info]: Fetched data from grocery list
+2025-03-07T22:39:08.012Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:39:16.082Z [info]: Fetched data from grocery list
+2025-03-07T22:39:39.662Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:40:33.394Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:41:03.544Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:41:16.912Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:42:00.906Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:48:18.747Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:49:02.174Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:52:41.880Z [info]: Server is listening on http://localhost:3000
+2025-03-07T22:52:47.091Z [info]: Fetched data from grocery list
+2025-03-11T17:54:49.482Z [info]: Server is listening on http://localhost:3000
+2025-03-11T17:55:36.705Z [info]: Server is listening on http://localhost:3000
+2025-03-11T17:55:44.249Z [info]: Fetched data from grocery list
+2025-03-11T17:56:17.807Z [info]: Fetched data from grocery list
+2025-03-11T17:58:52.808Z [info]: Server is listening on http://localhost:3000
+2025-03-11T17:58:59.143Z [info]: Fetched data from grocery list
+2025-03-11T18:00:53.362Z [info]: Server is listening on http://localhost:3000
+2025-03-11T18:16:48.270Z [info]: Server is listening on http://localhost:3000
+2025-03-11T18:16:59.017Z [info]: Fetched data from grocery list
+2025-03-11T18:17:17.202Z [info]: Fetched data from grocery list
+2025-03-11T18:17:39.977Z [info]: Fetched data from grocery list
+2025-03-11T18:21:24.136Z [info]: Server is listening on http://localhost:3000
+2025-03-11T18:21:31.158Z [info]: Fetched data from grocery list
+2025-03-11T18:21:42.520Z [info]: Fetched data from grocery list
+2025-03-11T18:21:48.537Z [info]: Fetched data from grocery list
+2025-03-11T18:22:02.787Z [info]: Fetched data from grocery list
+2025-03-11T18:22:07.620Z [info]: Fetched data from grocery list
+2025-03-11T18:25:32.716Z [info]: Server is listening on http://localhost:3000
+2025-03-11T18:25:37.987Z [info]: Fetched data from grocery list
+2025-03-11T18:25:54.177Z [info]: Fetched data from grocery list: 
+2025-03-11T18:25:54.177Z [info]: After filtering: 
+2025-03-11T18:26:50.054Z [info]: Server is listening on http://localhost:3000
+2025-03-11T18:26:55.368Z [info]: Fetched data from grocery list: 
+2025-03-11T18:26:55.369Z [info]: After filtering: 
+2025-03-11T18:29:06.454Z [info]: Server is listening on http://localhost:3001
+2025-03-11T18:29:18.398Z [info]: Fetched data from grocery list: 
+2025-03-11T18:29:18.398Z [info]: After filtering: 
+2025-03-11T18:34:14.267Z [info]: Server is listening on http://localhost:3001
+2025-03-11T18:34:45.452Z [info]: Fetched data from grocery list: 
+2025-03-11T18:34:45.452Z [info]: After filtering: 
+2025-03-11T18:34:51.870Z [info]: Fetched data from grocery list
+2025-03-11T18:35:12.556Z [info]: Fetched data from grocery list
+2025-03-11T18:35:20.327Z [info]: Fetched data from grocery list: 
+2025-03-11T18:35:20.327Z [info]: After filtering: 
+2025-03-11T18:35:23.713Z [info]: Fetched data from grocery list
+2025-03-11T18:53:05.635Z [info]: Server is listening on http://localhost:3001
+2025-03-11T18:53:18.097Z [info]: Fetched data from grocery list
+2025-03-11T18:54:19.157Z [info]: Fetched data from grocery list
+2025-03-11T18:55:14.822Z [info]: Fetched data from grocery list
+2025-03-11T18:55:20.031Z [info]: Fetched data from grocery list
+2025-03-11T18:56:22.354Z [info]: Server is listening on http://localhost:3001
+2025-03-11T18:56:31.816Z [info]: Fetched data from grocery list
+2025-03-11T18:56:41.496Z [info]: Fetched data from grocery list
+2025-03-11T18:56:45.856Z [info]: Fetched data from grocery list

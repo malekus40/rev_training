@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Bread",
+    "price": 2.5,
+    "quantity": 1,
+    "purchased": false,
+    "id": 0
+  },
+  {
+    "name": "milk",
+    "price": 2.5,
+    "quantity": 1,
+    "purchased": false,
+    "id": 1
+  },
+  {
+    "name": "coke",
+    "price": 2.5,
+    "quantity": 1,
+    "purchased": false,
+    "id": 2
+  },
+  {
+    "name": "salt",
+    "price": 2.5,
+    "quantity": 1,
+    "purchased": false,
+    "id": 3
+  }
+]

@@ -1,0 +1,23 @@
+2025-03-06T16:06:52.758Z [info]: Server is running on http://localhost:3000
+2025-03-06T16:07:00.345Z [info]: [GET]: /
+2025-03-06T16:09:19.624Z [info]: [GET]: /
+2025-03-06T16:10:01.718Z [info]: [GET]: /
+2025-03-06T16:10:18.527Z [info]: [GET]: /hello
+2025-03-06T16:10:41.200Z [info]: [POST]: /hello
+2025-03-06T16:15:17.812Z [info]: Server is running on http://localhost:3000
+2025-03-06T16:15:29.948Z [info]: [POST]: /hello
+2025-03-06T16:15:36.294Z [info]: [GET]: /hello
+2025-03-06T16:25:13.275Z [info]: [POST]: /hello
+2025-03-06T16:25:38.915Z [info]: Server is running on http://localhost:3000
+2025-03-06T16:25:42.653Z [info]: [POST]: /hello
+2025-03-06T16:26:17.150Z [info]: Server is running on http://localhost:3000
+2025-03-06T16:26:24.273Z [info]: [POST]: /hello
+2025-03-06T16:26:24.275Z [info]: Request Body: {
+    "data": "example"
+}
+2025-03-06T16:32:16.935Z [info]: Server is running on http://localhost:3000
+2025-03-06T16:32:29.656Z [info]: [PUT]: /hello
+2025-03-06T16:32:29.657Z [info]: Request Body: {
+    "data": "example"
+}
+2025-03-06T16:32:34.352Z [info]: [DELETE]: /hello
